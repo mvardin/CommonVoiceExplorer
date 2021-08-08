@@ -1,0 +1,12 @@
+C:\Storage\Workplace\CommonVoiceExplorer\obj\Debug\CommonVoiceExplorer.csproj.AssemblyReference.cache
+C:\Storage\Workplace\CommonVoiceExplorer\obj\Debug\CommonVoiceExplorer.csproj.GenerateResource.cache
+C:\Storage\Workplace\CommonVoiceExplorer\obj\Debug\CommonVoiceExplorer.csproj.CoreCompileInputs.cache
+C:\Storage\Workplace\CommonVoiceExplorer\obj\Debug\Interop.WMPLib.dll
+C:\Storage\Workplace\CommonVoiceExplorer\obj\Debug\CommonVoiceExplorer.csproj.ResolveComReference.cache
+C:\Storage\Workplace\CommonVoiceExplorer\bin\Debug\DubleKon.ir.CommonVoiceExplorer.exe.config
+C:\Storage\Workplace\CommonVoiceExplorer\bin\Debug\DubleKon.ir.CommonVoiceExplorer.exe
+C:\Storage\Workplace\CommonVoiceExplorer\bin\Debug\DubleKon.ir.CommonVoiceExplorer.pdb
+C:\Storage\Workplace\CommonVoiceExplorer\obj\Debug\DubleKon.ir.frmCommonVoiceExplorer.resources
+C:\Storage\Workplace\CommonVoiceExplorer\obj\Debug\DubleKon.ir.CommonVoiceExplorer.Properties.Resources.resources
+C:\Storage\Workplace\CommonVoiceExplorer\obj\Debug\DubleKon.ir.CommonVoiceExplorer.exe
+C:\Storage\Workplace\CommonVoiceExplorer\obj\Debug\DubleKon.ir.CommonVoiceExplorer.pdb
